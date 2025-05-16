@@ -19,9 +19,9 @@
 - **Сайт:** https://zotus.ru/  
 
 ## 📊 Статистика GitHub  
-[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/zotusx)  
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=zotusx&show_icons=true&theme=radical)](https://github.com/zotusx)  
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/zotusx)  
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=zotusx&layout=compact&theme=radical)](https://github.com/zotusx)  
 
 ---
 
