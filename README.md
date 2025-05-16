@@ -17,7 +17,7 @@
 - Боссмания - RPG-проект с сюжетом, вдохновленный Undertale.
 
 ## 📫 Контакты  
-- **Почта:** xart36733@gmail.com  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ss.ru/)
 - **Сайт:** https://zotus.ru/  
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/zotus)  
 
