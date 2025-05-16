@@ -19,7 +19,7 @@
 ## 📫 Контакты  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://ss.ru/)
 - **Сайт:** https://zotus.ru/  
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/zotus)  
+[![Telegram]([https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white))](https://t.me/zotus)  
 
 ## 📊 Статистика GitHub  
 [![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=zotusx&show_icons=true&theme=radical)](https://github.com/zotusx)  
