@@ -5,7 +5,8 @@
 - **Геймдев:** GDevelop, Godot
 - **Дополнительно:** Git, Android Studio, Java  
 
-## 🔥 Мои проекты
+### 🔥 Мои проекты на GitHub: (с мая 2025 г.)
+[![Расширение для GDevelop 5 - Audio From URL](https://github-readme-stats.vercel.app/api/pin/?username=zotusx&repo=audiofromurl)](https://github.com/zotusx/audiofromurl)  
 
 ### 🎮 Игры  
 - **Игры на Яндекс.Играх** – Простые казуальные игры от меня на Яндекс.Играх ([Играть](https://yandex.ru/games/developer/77972))   
