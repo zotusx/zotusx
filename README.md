@@ -8,14 +8,10 @@
 ## 🔥 Мои проекты
 
 ### 🎮 Игры  
-- **a** – Жанр, краткое описание ([Играть](#) | [Код](#))  
-  *Двsижок: GDevelop/Godot*  
-
-- **[Название игры]** – Жанр, краткое описание ([Играть](#) | [Код](#))  
-  *Движок: GDevelop/Godot*  
+- **Игры на Яндекс.Играх** – Простые казуальные игры от меня на Яндекс.Играх ([Играть](https://yandex.ru/games/developer/77972)   
 
 ## 📌 В работе  
-- [Название проекта] – Описание (например: "Веб-приложение для..." или "2D-платформер на Godot")  
+- РИТМ! – Музыкальная ритмичная игра на подобии rythia, osu!
 
 ## 📫 Контакты  
 - **Почта:** xart36733@gmail.com  
@@ -23,22 +19,15 @@
 - **Сайт:** https://zotus.ru/  
 
 ## 📊 Статистика GitHub  
-[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
+[![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/zotusx)  
 
-[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)  
+[![Топ языков](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/zotusx)  
 
 ---
 
 ⭐ *Спасибо за посещение моего профиля!*  
 
 ---
-
-### 🔧 Как запустить мои проекты?  
-#### Веб-проекты:  
-```bash
-git clone [ссылка на репозиторий]
-cd project-folder
-# Дальнейшие инструкции...
 
 <!--
 **zotusx/zotusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
