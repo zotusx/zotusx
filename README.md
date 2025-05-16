@@ -18,8 +18,8 @@
 
 ## 📫 Контакты  
 - **Почта:** xart36733@gmail.com  
-- **Telegram:** @zotus 
 - **Сайт:** https://zotus.ru/  
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?logo=telegram)](https://t.me/zotus)  
 
 ## 📊 Статистика GitHub  
 [![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=zotusx&show_icons=true&theme=radical)](https://github.com/zotusx)  
