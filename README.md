@@ -18,9 +18,9 @@
 - [Название проекта] – Описание (например: "Веб-приложение для..." или "2D-платформер на Godot")  
 
 ## 📫 Контакты  
-- **Почта:** [your@email.com]  
-- **Telegram:** [@yournickname]  
-- **Портфолио:** [ссылка]  
+- **Почта:** xart36733@gmail.com  
+- **Telegram:** @zotus 
+- **Сайт:** https://zotus.ru/  
 
 ## 📊 Статистика GitHub  
 [![Ваша статистика GitHub](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)  
