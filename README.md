@@ -1,4 +1,7 @@
-## Hi there 👋
+### Привет! 👋 Я Zotus, веб-разработчик.
+- 🔭 Работаю с: PHP, JavaScript, HTML/CSS, Python.
+- 🌱 Делаю игры на: GDevelop, Godot, Construct 2/3 
+- 📫 Связь: telegram/@zotus, xart36733@gmail.com.
 
 <!--
 **zotusx/zotusx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
