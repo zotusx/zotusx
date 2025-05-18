@@ -9,7 +9,7 @@
 [![Расширение для GDevelop 5 - Audio From URL](https://github-readme-stats.vercel.app/api/pin/?username=zotusx&repo=audiofromurl)](https://github.com/zotusx/audiofromurl)  
 
 ### 🎮 Игры  
-- **Игры на PlayHop** – Простые казуальные игры от меня на Яндекс.Играх ([Играть](https://playhop.com/en/developer/77972))   
+- **Игры на PlayHop** – Простые казуальные игры от меня на PlayHop ([Играть](https://playhop.com/en/developer/77972))   
 
 ## 📌 В работе  
 - РИТМ! – Музыкальная ритмичная игра на подобии rythia, osu!
